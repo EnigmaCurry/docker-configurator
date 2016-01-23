@@ -12,3 +12,5 @@ The idea of this is that container configuration is kind of hard
 because everyone does it differently. This creates a standard way of
 doing it for containers that I write. A single file to configure
 everything. 
+
+You can see an example use of this in [lazy-distro-mirrors](https://github.com/EnigmaCurry/lazy-distro-mirrors)
