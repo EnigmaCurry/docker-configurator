@@ -1,5 +1,7 @@
 # Docker Configurator
 
+**DEPRECATED: I am now maintaining an updated version in [PlenusPyramis/dockerfiles/scripts/docker_configurator.py](https://github.com/PlenusPyramis/dockerfiles/blob/master/scripts/docker_configurator.py)**
+
 This tool creates self-configuring docker containers given a single
 YAML file.
 
